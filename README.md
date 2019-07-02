@@ -6,8 +6,8 @@
 2. `terraform apply`
 
 
-### Usage for Shared
-0. Architecture
+### To DO
+0. Upload the Architecture
 
 
 
