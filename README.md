@@ -1,15 +1,13 @@
+### Usage for Shared
+0. Have your aws account credentials
+1. Clone the repo
+2. Update the terraform.tfvrars (example.terraform.tfvars)
+1. `terraform plan`
+2. `terraform apply`
 
 
-# Usage
-1. Update the terraform.tfvars file accordingly
-Then do
-      a. terraform init
-      b. terraform plan
-      c. terraform apply
-
-
-To Upload:
-1.Architecture
+### Usage for Shared
+0. Architecture
 
 
 
