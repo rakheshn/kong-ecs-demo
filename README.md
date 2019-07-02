@@ -3,13 +3,13 @@
 # Usage
 1. Update the terraform.tfvars file accordingly
 Then do
-      terraform init
-      terraform plan
-      terraform apply
+      a. terraform init
+      b. terraform plan
+      c. terraform apply
 
 
 To Upload:
-# Architecture
+1.Architecture
 
 
 
