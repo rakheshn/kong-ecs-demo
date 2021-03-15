@@ -6,10 +6,6 @@
 2. `terraform apply`
 
 
-### To DO
-0. Upload the Architecture
-
-
 
 
 
